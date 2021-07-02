@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "EVA3_20_SERVICIO_MEDIAPLAYER"

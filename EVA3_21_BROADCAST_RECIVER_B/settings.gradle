@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "EVA3_21_BROADCAST_RECIVER_B"
